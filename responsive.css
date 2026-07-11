@@ -1,0 +1,41 @@
+/* desktop-design */
+@media (width >= 68.75rem) {
+  h1 {
+    font-size: 2.75rem;
+    margin-block-end: 24px;
+  }
+
+  p,
+  ul li,
+  ol li,
+  th,
+  td {
+    font-size: 1.15rem;
+  }
+
+  p {
+    margin-block-end: 24px;
+  }
+
+  .main-container {
+    padding-block: 8rem;
+  }
+
+  .recipe {
+    max-width: 52rem;
+    border-radius: 20px;
+    padding: 36px;
+  }
+
+  .recipe__image {
+    margin-block-end: 32px;
+    border-radius: 12px;
+  }
+}
+
+/* mobile-design */
+.recipe__text {
+  @media (width < 68.75rem) {
+    padding: 30px 24px;
+  }
+}
