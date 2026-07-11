@@ -34,8 +34,8 @@
 }
 
 /* mobile-design */
-.recipe__text {
-  @media (width < 68.75rem) {
+@media (width < 68.75rem) {
+  .recipe__text {
     padding: 30px 24px;
   }
 }
