@@ -16,11 +16,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](.assets/images/Screenshot.png)
+[./assets/images/Screenshot.png]
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://chrisschneider89.github.io/fm_n_recipe_page/)
+- Live Site URL: [https://chrisschneider89.github.io/fm_n_recipe_page/]
 
 ## My process
 
